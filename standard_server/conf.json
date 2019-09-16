@@ -1,0 +1,7 @@
+{
+    "low":"READ3\r",
+    "mediume":"READ2\r",
+    "high":"READ1?\r",
+    "usr_ip":"127.0.0.1",
+    "port":8899
+}
