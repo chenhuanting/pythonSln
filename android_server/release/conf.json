@@ -1,0 +1,9 @@
+{
+    "db_ip":"127.0.0.1",
+    "db_port":3306,
+    "db_name":"thermometers",
+    "user_name":"root",
+    "user_passwd":"root",
+    "image_folder":"images/",
+    "upload_url":"http://47.104.70.158:8080/image/upload"
+}
